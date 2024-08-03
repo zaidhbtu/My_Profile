@@ -1,5 +1,5 @@
 
-[![MasterHead] (https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg)]
+![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt"Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
